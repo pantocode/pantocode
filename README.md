@@ -9,12 +9,11 @@
 - 👨‍💻 I’m currently working on learning and mastering new technologies.<br><br>
 - 📚 I’m currently learning
   >[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,azure)](https://skillicons.dev)
-&nbsp;
-&nbsp;
+ 
 &nbsp;
 &nbsp;
 
-##### Some terminal command I have learned in the first bootcamp class
+##### Some terminal commands I have learned in the first bootcamp class
 |Comand  |  Usage  |
 |--------  |---------|
 |  *whoami*  | **This commad shows the current user** |
