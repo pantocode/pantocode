@@ -1,16 +1,31 @@
-### Hi there 👋
+## 👋Hi everyone, I'm _*Andres Pantoja*_ 🍻
 
+#### I'm *Application Developer* at 👁️🐝Ⓜ️ I am currently focused on gaining expertise in Javascript, React, and NodeJS 💛
 <!--
-**pantocode/pantocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pantocode/pantocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+&nbsp;
+&nbsp;
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working on learning and mastering new technologies.<br><br>
+- 📚 I’m currently learning
+  >[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,azure)](https://skillicons.dev)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Some terminal command I have learned in the first bootcamp class
+|Comand  |  Usage  |
+|--------  |---------|
+|  *whoami*  | **This commad shows the current user** |
+|  *mkdir*   | **This commad create a new directory the current path**|
+|  *rm*      | **This commad delete any file**|
+|  *mv*      | **This commad move a file from a path to another** |
+|  *cd*      | **This commad is for chnge the current directory** |
+
+##### A few alias commands that makes your work easier.
+|Alias     | Comand  |  Usage  |
+|--------  |---------|--------
+|  *cls*   |  *clear*| **This alias is shortest and quickly than clear** |
+|  *ga*     |  *git add* |**This alias is very useful to add files to staging area*|
+
