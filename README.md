@@ -13,6 +13,15 @@
 &nbsp;
 &nbsp;
 
+### Some of my Job experience:
+
+- Java Application Developer at IBM Mexico (MAY 2020 - Today)
+- Student(internship) at IBM Mexico (MAR 2019 - MAR 2020)
+- Web Technologies Internship at Viva Anuncios (AUG 2018 - JAN 2019)
+<br/>
+
+
+
 ##### Some terminal commands I have learned in the first bootcamp class
 |Comand  |  Usage  |
 |--------  |---------|
@@ -28,3 +37,4 @@
 |  *cls*   |  *clear*| **This alias is shortest and quickly than clear** |
 |  *ga*     |  *git add* |**This alias is very useful to add files to staging area*|
 
+You can visit my Github profile here :point_right: :octocat: [Pantocode](https://github.com/pantocode)
